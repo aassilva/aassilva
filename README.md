@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Antonio Silva
+
+- a focused on edge computing.
+- a scientist engineer with experience in embedded systems.
+- I am available in Portuguese, and English.
+
 <!--
 **aassilva/aassilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
