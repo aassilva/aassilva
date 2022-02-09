@@ -2,8 +2,8 @@
 
 I am Antonio Silva
 
-- a focused on edge computing.
-- a scientist engineer with experience in embedded systems.
+- an interest in ICN, SDN, service function chains, fog computing.
+- a scientist engineer with experience in embedded systems and computer network.
 - I am available in Portuguese, and English.
 
 <!--
