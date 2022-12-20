@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I am Antonio Silva
+I am Antonio Santos da Silva
 
-- an interest in ICN, SDN, service function chains, fog computing.
+- Ph.D candidate in computer science cotutelle at HSHL, Uni-Passau and UFRGS.
+- an interest in ICN, SDN, service function chains, fog computing, 5G and 6G networking and autonomous vehicles.
 - a scientist engineer with experience in embedded systems and computer network.
-- I am available in Portuguese, and English.
+- I am available in Portuguese or English.
 
 <!--
 **aassilva/aassilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
